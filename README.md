@@ -189,3 +189,7 @@ De maneira geral, os resultados permitiram estabelecer uma sequência coerente e
 Entretanto, a divergência entre os endereços IP e a ausência de confirmação independente da leitura e da transferência do arquivo Financeiro.xlsx impedem afirmar, com base apenas nos registros apresentados, que seu conteúdo foi efetivamente enviado a outro destino. Assim, os resultados demonstram a existência de atividades relacionadas ao processo de sincronização, mas a confirmação da transferência do arquivo depende de evidências adicionais.
 
 Conclui-se que a investigação atingiu seu propósito de organizar, examinar e correlacionar diferentes fontes de evidência digital em um ambiente controlado, aplicando conceitos de integridade, rastreabilidade, documentação e análise forense. O estudo também demonstrou a importância de distinguir os registros diretamente observados das interpretações produzidas a partir da correlação entre diferentes artefatos.
+
+## Vídeo de apresentação do projeto
+
+[Clique aqui para assistir ao vídeo](https://drive.google.com/file/d/19xQRdPq_VXWDugIZraQzB7UDgaPTooAu/view?usp=drivesdk)
