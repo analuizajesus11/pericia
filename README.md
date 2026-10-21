@@ -149,7 +149,8 @@ Para a preservação e verificação da integridade dos dados, foram utilizados 
 Após a aquisição e preservação, os artefatos digitais foram analisados e correlacionados, considerando suas características, origem e relação temporal. Essa etapa teve como finalidade identificar informações relevantes e estabelecer possíveis relações entre arquivos, usuários, atividades e eventos, contribuindo para a reconstrução dos acontecimentos investigados.
 
 Por fim, os resultados foram avaliados considerando a integridade das evidências, os valores de hash, os registros da cadeia de custódia e a documentação dos procedimentos realizados. Dessa forma, a metodologia permitiu relacionar os fundamentos teóricos da computação forense à aplicação prática em um ambiente computacional controlado, buscando assegurar a confiabilidade, a rastreabilidade e a preservação das evidências digitais analisadas.
-3.1 Desenvolvimento
+
+# 3.1 Desenvolvimento
 
 A análise foi realizada em uma máquina virtual com Windows 10, utilizada como ambiente controlado para a investigação do Caso TechCorp. O principal objeto da perícia foi o componente CorpSync_Service, sendo analisados seus arquivos, registros de execução, eventos do sistema, comunicação de rede e artefatos relacionados ao aplicativo CorpSync Mobile.
 
@@ -167,7 +168,7 @@ Por fim, foi analisado o manifesto contendo os valores SHA-256 dos arquivos util
 
 A partir da correlação dos diferentes artefatos, foi possível estabelecer uma sequência dos acontecimentos: inicialização do serviço → identificação do usuário → acesso ao arquivo → configuração do endpoint → comunicação HTTP → criação de arquivo temporário → conclusão da sincronização. Dessa forma, a análise permitiu aplicar, de forma prática, os conceitos de identificação, preservação, integridade, análise e correlação de evidências digitais apresentados no referencial teórico.
 
-4. Resultados
+# 4. Resultados
 
 A análise forense dos artefatos digitais do Caso TechCorp permitiu identificar e correlacionar registros relacionados à execução do serviço CorpSync_Service na máquina virtual com Windows 10. Foram examinados logs da aplicação, eventos do sistema operacional, código-fonte, registros associados ao CorpSync Mobile, captura de tráfego de rede, linha do tempo e manifesto de integridade.
 
